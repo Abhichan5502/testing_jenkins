@@ -1,4 +1,4 @@
 import os
 
-path = os.getcwd()
-print (path)
+path_dir = os.getcwd()
+print (path_dir)
