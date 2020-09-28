@@ -1,0 +1,5 @@
+Jenkins:
+
+1: youtube video on jenkins (3hrs)
+2: went through some basic tutorials on jenkins, for installation of jenkins (guru99.com)
+3: 
